@@ -1,0 +1,6 @@
+{
+  "name": "Foxnex",
+  "description": "Premium 3D Operational Command Center for managing Sewing Education, Content Creation, Pattern Design, and Future Digital Products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
